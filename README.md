@@ -1,16 +1,8 @@
 ## Calculadora Online
 
-Neste exercício devemos criar um servidor com 4 rotas _GET_ para executar as 4 operações básicas da matemática (somar, subtrair, multiplicar, dividir)
-Você deverá criar um servidor como mostrado na aula contendo as seguintes rotas _GET_ abaixo:
+Criei um servidor com 4 rotas _GET_ para executar as 4 operações básicas da matemática (somar, subtrair, multiplicar, dividir)
 
-```javascript
-/somar
-/subtrair
-/multiplicar
-/dividir
-```
-
-Todas as rotas devem esperar dois parâmetros query **num1** e **num2** e retornar a resposta da operação.
+Todas as rotas esperaram dois parâmetros query **num1** e **num2** e retornam as respostas das operações.
 
 ### Exemplos de requisições e respostas:
 
