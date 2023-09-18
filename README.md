@@ -1,8 +1,8 @@
 ## Calculadora de Operações Matemáticas com API REST em Node.js
 
-Criei um servidor com 4 rotas _GET_ para executar as 4 operações básicas da matemática (somar, subtrair, multiplicar, dividir)
+Configurei um servidor com quatro rotas GET, cada uma destinada a executar uma das quatro operações fundamentais da matemática: adição, subtração, multiplicação e divisão.
 
-Todas as rotas esperaram dois parâmetros query **num1** e **num2** e retornam as respostas das operações.
+Todas essas rotas aguardam a inclusão de dois parâmetros de consulta, denominados "num1" e "num2", e em resposta, fornecem o resultado das operações correspondentes.
 
 ### Exemplos de requisições e respostas:
 
