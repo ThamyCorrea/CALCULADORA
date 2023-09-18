@@ -1,4 +1,4 @@
-## Calculadora Online
+## Calculadora de Operações Matemáticas com API REST em Node.js
 
 Criei um servidor com 4 rotas _GET_ para executar as 4 operações básicas da matemática (somar, subtrair, multiplicar, dividir)
 
